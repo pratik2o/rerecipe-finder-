@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-allura: Allura;
+  --font-abril-fatface: "Abril Fatface";
+
+  /* font sizes */
+  --font-size-77xl: 96px;
+  --font-size-5xl: 24px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+}
